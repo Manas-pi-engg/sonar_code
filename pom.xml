@@ -11,7 +11,7 @@
 
     <properties>
         <sonar.projectKey>Manas-pi-engg_sonar_code</sonar.projectKey>
-        <sonar.organization>manas-pi-engg</sonar.organization>
+        <sonar.organization>Manas-pi-engg</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.login>SONAR_TOKEN</sonar.login>
     </properties>
