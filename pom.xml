@@ -19,6 +19,12 @@
         <sonar.login>SONAR_TOKEN</sonar.login>
     </properties>
 
+     <dependency>
+          <groupId>org.junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.8.2</version>
+     </dependency>
+     
     <build>
         <plugins>
             <!-- JaCoCo plugin configuration -->
